@@ -13,7 +13,6 @@ Migration additions: the headless compile guards, runner, Makefile, tests and
 this documentation. Migration fixes: block-cyclic scheduling/bounds and legacy
 palette allocation. Original source copies remain in the local audit workspace.
 
-No third-party headers, images, reports, cluster logs or compiled artifacts are
-included. No license has been invented or applied to the inherited code.
-Keep this repository private until the upstream example's redistribution terms,
-course publication rules and any collaborator attribution are confirmed.
+No third-party headers, images, reports, cluster logs or compiled artifacts are included.
+
+The repository owner confirmed on 24 November 2026 that they hold the necessary redistribution rights for the coursework and included third-party material. Original author credits and copyright notices are retained; no new license is assigned to inherited code.
